@@ -1,0 +1,6 @@
+comment = 'foo:  Created by pgx'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/foo'
+relocatable = false
+superuser = false
+schema = mantis
